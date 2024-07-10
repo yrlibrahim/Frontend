@@ -1,0 +1,19 @@
+#Burda git ile takip etmek istemediğimiz dosyaları ya da dosya türlerini belirtiriz. 
+
+#takip edilmesi gerekmeyen dosya tipleri img, video, log, txt gibi dosyalar
+
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.mp4
+*.mp3
+*.log
+*.txt
+
+# şeklinde kullanılır.
+
+/img
+
+# belirtilen img klasörü tamamen görmezden gelinir.
+
